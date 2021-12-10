@@ -1,3 +1,3 @@
 # NewsApp
 ## This is a News APP.
-### Ready to add login and registration function
+### The login and registration function will be added next
